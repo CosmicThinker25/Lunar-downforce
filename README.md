@@ -1,80 +1,29 @@
-# Magnetic Downforce Roadways for Lunar Mobility
+# 🌕 Lunar Downforce Roadways
 
-Unified dossier on the concept of **magnetic-downforce roadways** for lunar mobility, integrating versions v0.1–v0.5.  
-Authors: **CosmicThinker & ChatGPT**  
-Date: **30 September 2025**  
-
----
-
-## Visual Overview
-
-![Poster](Magnetic_Downforce_Roadways_Poster.png)
-
-👉 For full technical details, see the dossier:  
-[📄 Magnetic_Downforce_Roadways_v0.5_final.pdf](Magnetic_Downforce_Roadways_v0.5_final.pdf)
+**Evolución de un concepto innovador para generar tracción en la Luna mediante módulos magnéticos integrados en carreteras ISRU.**  
+*Evolution of an innovative concept to generate traction on the Moon using magnetic modules integrated into ISRU roadways.*
 
 ---
 
-## Executive Summary
+## 📖 Overview
 
-- Downforce per module: **3–5 kN** at 10–30 m/s  
-- Drag energy: **~270 Wh/km** @ 20 m/s (gap=20 mm)  
-- Radiators: **~20 kW → 30 m²** @ 350 K  
-- Nonlinear Inductrack-like model captures **v² growth, saturation, drag peaking, roll-off**  
-- **ISRU viability**: ~117 t regolith/km → 7 t Al/km + 8 t O₂ coproduct  
-- **Energy cost**: ~37 MWh/km (~2–3 days of a 40 kW reactor)  
-- **Production time**: ~12 days/km with 1 reactor, <1 week/km with 2–4 reactors  
-- **ROI < 1 lunar year** for corridors 10–50 km  
+Este repositorio recopila la evolución iterativa de la idea **Lunar Downforce Roadways**: un sistema que utiliza arrays Halbach enterrados en pistas sinterizadas de regolito para proporcionar fuerza descendente adicional a rovers y vehículos en la baja gravedad lunar (1/6 g).  
+
+The repository documents the **step-by-step evolution** of the *Lunar Downforce Roadways* concept: a system that embeds Halbach arrays in ISRU-built regolith tracks to provide additional downforce for rovers and vehicles in the Moon’s low gravity (1/6 g).
 
 ---
 
-## Key Results
+## 📂 Document Versions
 
-| Magnitude             | Value (typical)                 |
-|-----------------------|---------------------------------|
-| Downforce             | 3–5 kN/module                   |
-| Drag energy           | 270 Wh/km @20 m/s               |
-| Radiators             | 20 kW → 30 m² @350 K            |
-| ISRU Al               | 7 t/km (117 t regolith)         |
-| Coproducts            | 8 t O₂ + 30–50 t slag           |
+- **v0.1** – Nota conceptual inicial (2 páginas). / Initial concept note (2 pages).  
+- **v0.2** – Expansión cuantitativa con modelo lineal (5 páginas). / Quantitative expansion with linear model (5 pages).  
+- **v0.3 (integrada en v0.4)** – Introducción de modelo no lineal, saturación ~600 N. / Non-linear model introduction, ~600 N saturation.  
+- **v0.4 Unified Dossier** – Documento unificado con gráficos comparativos y bibliografía (9 páginas). / Unified dossier with comparative plots and references (9 pages).  
+- **v0.5 Final** – Versión culminante (14 páginas) con apéndice ISRU (masa, energía, tiempos de sinterización) y conclusiones ampliadas. / Final version (14 pages) with ISRU appendix (mass, energy, sintering times) and extended conclusions.  
 
----
-
-## Appendix A — ISRU Simulations
-
-- **Regolith required**: 88–176 t/km (depending on Al content and efficiency)  
-- **Energy cost**: 33–53 MWh/km  
-- **Production time**: 9–18 days/km (1 reactor), <1 week/km (2–4 reactors)  
-- **Coproducts**: 8–10 t O₂/km, 30–50 t slag/km  
-- **Challenges & improvements**: beneficiation (+10–20% efficiency), thermal management (1900–2200 K, YSZ insulation), integration with slag paving  
-
-Figures included in the dossier:  
-- Regolith vs. extraction efficiency  
-- Energy vs. efficiency  
-- Duration vs. reactors  
-- Average power & radiator area vs. reactors  
+📑 Todos los PDFs están en este repositorio. / All PDFs are included in this repository.
 
 ---
 
-## Bibliography
+## 📊 Evolution Timeline
 
-- Post, R. F., & Ryutov, D. D. (1996). *The Inductrack: A Simpler Approach to Magnetic Levitation*. LLNL.  
-- Post, R. F. (2000). *The Inductrack Approach to Magnetic Levitation*. U.S. DOE.  
-- Post, R. F. (2004). *A Laminated Track for the Inductrack System: Theory and Experiment*. LLNL.  
-- Post, R. F. (2008). *The Design of Halbach Arrays for Inductrack Maglev Systems*. OSTI.  
-- Meng, X., et al. (2022). *Research on Gravity Compensation System of Planetary Rover Based on Electrodynamic Suspension*.  
-- Hintz, A., et al. (2023). *Laser Melting Manufacturing of Large Elements of Lunar Regolith Simulant*. *Scientific Reports*.  
-- Taylor, L. A., et al. (2020). *Microwave Sintering Lunar Landing Pads & Horizontal Infrastructure*. NASA TRS.  
-- Ortiz Gómez, N. (2017). *Eddy Currents Applied to Space Debris Objects*. ePrints Soton.  
-
----
-
-## Acknowledgements
-
-This dossier also benefited from iterative feedback by **Grok (xAI)**, whose evaluations helped refine the document.
-
----
-
-## Tags
-
-#LunarMobility #MagneticRoadways #Inductrack #Halbach #ISRU #MoonInfrastructure #Artemis #SpaceEngineering #Maglev #Downforce #SpaceResources #CosmicThinker
