@@ -1,0 +1,9 @@
+# Configuración de GitHub Pages para Lunar Downforce
+
+title: Lunar Downforce Roadways
+description: Evolución de un concepto para generar tracción en la Luna mediante módulos magnéticos e ISRU.
+theme: jekyll-theme-cayman
+
+# Opcional: enlaces sociales
+author: CosmicThinker & ChatGPT
+show_downloads: true
