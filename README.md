@@ -1,5 +1,8 @@
 # 🌕 Lunar Downforce Roadways
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17283708.svg)](https://doi.org/10.5281/zenodo.17283708)
+
+
 **Evolución de un concepto innovador para generar tracción en la Luna mediante módulos magnéticos integrados en carreteras ISRU.**  
 *Evolution of an innovative concept to generate traction on the Moon using magnetic modules integrated into ISRU roadways.*
 
@@ -26,4 +29,8 @@ The repository documents the **step-by-step evolution** of the *Lunar Downforce 
 ---
 
 ## 📊 Evolution Timeline
+
+- **v0.5 Final** – Versión culminante (14 páginas) con apéndice ISRU.  
+- **v1.0 (DOI Release)** – Publicada en Zenodo con DOI 10.5281/zenodo.17283708  
+
 
