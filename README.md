@@ -33,4 +33,22 @@ The repository documents the **step-by-step evolution** of the *Lunar Downforce 
 - **v0.5 Final** – Versión culminante (14 páginas) con apéndice ISRU.  
 - **v1.0 (DOI Release)** – Publicada en Zenodo con DOI 10.5281/zenodo.17283708  
 
+---
+
+## 🪶 Cite this work
+
+**APA**
+
+CosmicThinker. (2025). *CosmicThinker25/Lunar-downforce: Carreteras con Fuerza Descendente Lunar – Versión 1.0 (v1.0).* Zenodo. https://doi.org/10.5281/zenodo.17283708  
+
+**BibTeX**
+
+@misc{cosmicthinker2025lunar,
+  author       = {CosmicThinker and ChatGPT},
+  title        = {CosmicThinker25/Lunar-downforce: Carreteras con Fuerza Descendente Lunar – Versión 1.0 (v1.0)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17283708},
+  url          = {https://doi.org/10.5281/zenodo.17283708}
+}
 
